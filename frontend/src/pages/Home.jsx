@@ -9,6 +9,7 @@ import Reservation from '../components/Reservation'
 import Footer from '../components/Footer'
 
 const Home = () => {
+  const url = "https://mern-restaurant-backend-0lev.onrender.com"
   return (
     <>
       <HeroSection />
